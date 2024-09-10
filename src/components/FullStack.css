@@ -17,3 +17,6 @@
     height: 150px; /* Set the fixed height for all images */
     object-fit: cover; /* Ensure the image covers the entire area */
   }
+  body{
+    background-image: url(https://wallpapers.com/images/hd/coding-background-9izlympnd0ovmpli.jpg);
+}
