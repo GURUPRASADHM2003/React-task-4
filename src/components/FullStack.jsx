@@ -74,7 +74,44 @@ const FullStack = () => {
       user: "Ramkumar",
       date: "25 Mar,2024",
       time: "3",
+    },{
+      id: 8,
+      image:
+        "https://res.cloudinary.com/dofdsgzno/image/upload/v1714395425/React-Router/kl2kb1ytxk9ha6nirqzp.jpg",
+      sub: "Best Full-Stack Development Project Ideas in 2024",
+      user: "Tarun Singh",
+      date: "25 Mar,2024",
+      time: "4",
     },
+    {
+      id: 9,
+      image:
+        "https://res.cloudinary.com/dofdsgzno/image/upload/v1714395420/React-Router/h0pkajwltek8q5uzgfyd.webp",
+      sub: "How Long Would It Take to Be a Full Stack Developer?",
+      user: "Meghana D",
+      date: "26 Mar,2024",
+      time: "3",
+    },
+    {
+      id: 10,
+      image:
+        "https://res.cloudinary.com/dofdsgzno/image/upload/v1714395421/React-Router/ythnpkh2o19akolbd9vl.png",
+      sub: "How does Apache work? A detailed introduction to Apache",
+      user: "Tushar Vinocha",
+      date: "26 Mar,2024",
+      time: "5",
+    },
+    {
+      id: 11,
+      image:
+        "https://res.cloudinary.com/dofdsgzno/image/upload/v1714395420/React-Router/goehsfzhwnwnzdbsyumt.webp",
+      sub: "Hot Topics That You Need To Know In Full Stack Developer Syllabus",
+      user: "Archana",
+      date: "26 Mar,2024",
+      time: "6",
+    },
+    
+    
   ];
 
   return (

@@ -74,6 +74,42 @@ const Cyber = () => {
       date: "22 Mar,2024",
       time: "5",
     },
+    {
+      id: 8,
+      image:
+        "https://res.cloudinary.com/dofdsgzno/image/upload/v1714453947/React-Router/cyber/ulkhvjqhaoo3gxlzfcul.webp",
+      sub: "Is coding required for cybersecurity? If yes, how crucial is coding?...",
+      user: "Tarun Singh",
+      date: "25 Mar,2024",
+      time: "4",
+    },
+    {
+      id: 9,
+      image:
+        "https://res.cloudinary.com/dofdsgzno/image/upload/v1714453912/React-Router/cyber/lvlhimfeyam2hgixv71f.webp",
+      sub: "The Cybersecurity Surge: 5 Must-Have Cybersecurity Certifications!",
+      user: "Meghana D",
+      date: "26 Mar,2024",
+      time: "3",
+    },
+    {
+      id: 10,
+      image:
+        "https://res.cloudinary.com/dofdsgzno/image/upload/v1714453935/React-Router/cyber/a4opvpvtag5z7fwkuznk.gif",
+      sub: "What is Cybersecurity? Importance and its uses & the growing...",
+      user: "Tushar Vinocha",
+      date: "26 Mar,2024",
+      time: "5",
+    },
+    {
+      id: 11,
+      image:
+        "https://res.cloudinary.com/dofdsgzno/image/upload/v1714453909/React-Router/cyber/jp6nehseoxmagdrxvsme.webp",
+      sub: "Non-Coding Jobs in Cybersecurity: A Comprehensive Guide",
+      user: "Archana",
+      date: "26 Mar,2024",
+      time: "6",
+    },
   ];
 
   return (

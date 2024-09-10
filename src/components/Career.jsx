@@ -74,6 +74,42 @@ const FullStack = () => {
       date: "22 Mar,2024",
       time: "3",
     },
+    {
+      id: 8,
+      image:
+        "https://res.cloudinary.com/dofdsgzno/image/upload/v1714456249/React-Router/career/bbwyvpsw4i32axqdnyiw.jpg",
+      sub: "As a Software Engineer, How Do I Shift My Career to DevOps?",
+      user: "Lahari Chandana",
+      date: "16 Mar,2024",
+      time: "4",
+    },
+    {
+      id: 9,
+      image:
+        "https://res.cloudinary.com/dofdsgzno/image/upload/v1714456250/React-Router/career/avjksit0fnciiwtlo6u5.webp",
+      sub: "Is Data Science A Good Career Choice In 2024?",
+      user: "Archana",
+      date: "16 Mar,2024",
+      time: "4",
+    },
+    {
+      id: 10,
+      image:
+        "https://res.cloudinary.com/dofdsgzno/image/upload/v1714456249/React-Router/career/kziakf1yxcudfs1xzsyo.webp",
+      sub: "How to Become a Digital Marketer – Digital Marketing Career Roadmap",
+      user: "Meghana D",
+      date: "16 Mar,2024",
+      time: "5",
+    },
+    {
+      id: 11,
+      image:
+        "https://res.cloudinary.com/dofdsgzno/image/upload/v1714456249/React-Router/career/reook9x3kxqvofeehmdp.webp",
+      sub: "Is Choosing Automation Testing a Good Career Opportunity in 2024?",
+      user: "Isha Sharma",
+      date: "16 Mar,2024",
+      time: "6",
+    },
   ];
 
   return (

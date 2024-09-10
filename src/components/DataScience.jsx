@@ -74,6 +74,42 @@ const Datascience = () => {
       date: "25 Mar,2024",
       time: "3",
     },
+    {
+      id: 8,
+      image:
+        "https://res.cloudinary.com/dofdsgzno/image/upload/v1714364012/hkf2gsl4kyyielgrjnju.webp",
+      sub: "Can A Commerce Student Do Data Science?",
+      user: "Saakshi Priyadarshini",
+      date: "16 Apr,2024",
+      time: "3",
+    },
+    {
+      id: 9,
+      image:
+        "https://res.cloudinary.com/dofdsgzno/image/upload/v1714392300/feature-image-product-based-companies-for-data-science-freshers_bapfqv.webp",
+      sub: "Top Product-Based Companies for Data Science Freshers",
+      user: "Jaishree Tomar",
+      date: "10 Nov,2023",
+      time: "3",
+    },
+    {
+      id: 10,
+      image:
+        "https://res.cloudinary.com/dofdsgzno/image/upload/v1714392327/Feature-image-Top-High-Paying-Non-Coding-Jobs-in-Data-Science_rjl96f.webp",
+      sub: "Top 10 High Paying Non-Coding Jobs in Data Science in 2024",
+      user: "Isha Sharma",
+      date: "16 Mar,2024",
+      time: "6",
+    },
+    {
+      id: 11,
+      image:
+        "https://res.cloudinary.com/dofdsgzno/image/upload/v1714392327/Feature-image-Top-Product-Based-Companies-for-Data-Scientists_pftnj7.webp",
+      sub: "Top Product Based Companies for Data Scientists in 2024",
+      user: "Jaishree Tomar",
+      date: "26 Mar,2024",
+      time: "6",
+    },
   ];
 
   return (
